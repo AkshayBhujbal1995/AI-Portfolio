@@ -124,13 +124,21 @@ Download the dataset from Kaggle and place the file here:
 * Compare predictions with **other ML models** like Logistic Regression or XGBoost for benchmarking.
 
 ---
+##  Requirements
 
-## Tech Stack
+See [requirements.txt](requirements.txt) for all Python dependencies.
 
-* **Python**
-* **Pandas, NumPy** for data manipulation
-* **Scikit-learn** for Machine Learning
-* **Streamlit** for building the interactive web app
+**Main Libraries:**
 
+* `pandas`, `numpy` → Data handling
+* `scikit-learn` → Modeling and preprocessing
+* `matplotlib`, `seaborn` → Visualization
+* `streamlit` → Web app interface
+
+---
+
+## 8. License
+
+This project is licensed under the MIT License.
 
 
