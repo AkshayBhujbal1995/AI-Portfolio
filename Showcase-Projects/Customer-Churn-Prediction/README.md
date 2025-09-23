@@ -52,8 +52,9 @@ The model is trained on the **IBM Telco Customer Churn dataset** from Kaggle.
 
 **1. Clone the repository:**
 ```bash
-git clone <your_repo_link>
-cd Customer-Churn-Prediction
+git clone https://github.com/AkshayBhujbal1995/AI-Portfolio.git
+cd AI-Portfolio/Showcase-Projects/Customer-Churn-Prediction
+
 ````
 
 **2. Create a virtual environment (recommended):**
