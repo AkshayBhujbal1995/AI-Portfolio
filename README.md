@@ -31,10 +31,12 @@ Each project folder includes:
 
 These are completed projects demonstrating **end-to-end ML workflows**.
 
+
 | Project | Description | Folder |
 |---------|-------------|--------|
 | 💳 [Credit Card Fraud Detection](Showcase-Projects/Credit-Card-Fraud-Detection) | Predict fraudulent transactions using Random Forest Classifier. Includes Streamlit app and model. | `Showcase-Projects/Credit-Card-Fraud-Detection` |
 | 📉 [Customer Churn Prediction](Showcase-Projects/Customer-Churn-Prediction) | Predict if a customer will churn using Random Forest Classifier. Includes Streamlit app and model. | `Showcase-Projects/Customer-Churn-Prediction` |
+| 🍎 [Fruit Freshness Classification](Showcase-Projects/Fruit-Freshness-Classification) | Classify fruits as fresh or rotten using a Convolutional Neural Network (CNN). Model file is **not uploaded** due to large size. Includes Streamlit app for testing. | `Showcase-Projects/Fruit-Freshness-Classification` |
 | 🏆 [Project Name] | Short description of the project. | `Showcase-Projects/Project-Folder` |
 
 ---
