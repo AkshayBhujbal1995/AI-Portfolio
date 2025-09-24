@@ -46,32 +46,32 @@ A curated list of the technologies and frameworks that power my projects.
 > A collection of additional projects that showcase diverse skills and a passion for continuous learning.
 >
 >### Data Analytics & Statistics
-> * [Descriptive-Stats-Project](Extra-Projects/Data-Analytics/Descriptive-Stats-Project) 📈
-> * [EDA-with-LLM](Extra-Projects/Data-Analytics/EDA-with-LLM) 🤖
-> * [Inferential-Statistics-Project](Extra-Projects/Data-Analytics/Inferential-Statistics-Project) 🔬
+> * [Descriptive-Stats-Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Analytics/Descriptive-Stats-Project) 📈
+> * [EDA-with-LLM](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Analytics/EDA-with-LLM) 🤖
+> * [Inferential-Statistics-Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Analytics/Inferential-Statistics-Project) 🔬
 >
 >### Data Science & Machine Learning
-> * [House-Price-Prediction-WebApp-using-13-models](Extra-Projects/Data-Science-ML/House-Price-Prediction-WebApp-using-13-models) 🏡
-> * [Salary-Prediction-App](Extra-Projects/Data-Science-ML/Salary-Prediction-App) 💰
-> * [Student-Mark-Predictor-Flask-End-to-End](Extra-Projects/Data-Science-ML/Student-Mark-Predictor-Flask-End-to-End) 🧑‍🎓
-> * [Logistic-Regression-Unseen-Data-Prediction](Extra-Projects/Data-Science-ML/Logistic-Regression-Unseen-Data-Prediction) 🎯
-> * [Multi-Model-With-streamlit](Extra-Projects/Data-Science-ML/Multi-Model-With-streamlit) ✨
+> * [House-Price-Prediction-WebApp-using-13-models](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Science-ML/House-Price-Prediction-WebApp-using-13-models) 🏡
+> * [Salary-Prediction-App](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Science-ML/Salary-Prediction-App) 💰
+> * [Student-Mark-Predictor-Flask-End-to-End](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Science-ML/Student-Mark-Predictor-Flask-End-to-End) 🧑‍🎓
+> * [Logistic-Regression-Unseen-Data-Prediction](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Science-ML/Logistic-Regression-Unseen-Data-Prediction) 🎯
+> * [Multi-Model-With-streamlit](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Science-ML/Multi-Model-With-streamlit) ✨
 >
 >### Deep Learning & Computer Vision
-> * [Deep-Learning-YOLOv8-Object-Detection](Extra-Projects/Deep-Learning/Deep-Learning-YOLOv8-Object-Detection-Image-Video-Webcam) 👀
-> * [Multi-Color-Detection-with-Python-OpenCV](Extra-Projects/Deep-Learning/Multi-Color-Detection-with-Python-OpenCV) 🎨
-> * [Pedestrian-Detection-with-OpenCV-HOG-SVM](Extra-Projects/Deep-Learning/Pedestrian-Detection-with-OpenCV-HOG-SVM)🚶‍♂️
+> * [Deep-Learning-YOLOv8-Object-Detection](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Deep-Learning/Deep-Learning-YOLOv8-Object-Detection-Image-Video-Webcam) 👀
+> * [Multi-Color-Detection-with-Python-OpenCV](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Deep-Learning/Multi-Color-Detection-with-Python-OpenCV) 🎨
+> * [Pedestrian-Detection-with-OpenCV-HOG-SVM](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Deep-Learning/Pedestrian-Detection-with-OpenCV-HOG-SVM)🚶‍♂️
 >
 >### Natural Language Processing (NLP)
-> * [Rule-Based-ChatBot](Extra-Projects/NLP/Rule-Based-ChatBot) 💬
-> * [Sentiment-analysis-using-huggingface](Extra-Projects/NLP/sentiment-analysis-using-huggingface-and-gradio) 😊
-> * [Text-Summarization-Project-with-SpaCy](Extra-Projects/NLP/Text-Summarization-Project-with-SpaCy) 📝
-> * [Text-to-speech-gtts-streamlit](Extra-Projects/NLP/text-to-speech-gtts-streamlit) 🗣️
+> * [Rule-Based-ChatBot](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/NLP/Rule-Based-ChatBot) 💬
+> * [Sentiment-analysis-using-huggingface](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/NLP/sentiment-analysis-using-huggingface-and-gradio) 😊
+> * [Text-Summarization-Project-with-SpaCy](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/NLP/Text-Summarization-Project-with-SpaCy) 📝
+> * [Text-to-speech-gtts-streamlit](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/NLP/text-to-speech-gtts-streamlit) 🗣️
 >
 >### Generative AI
-> * [Image-To-Text-Generation-with-AI](Extra-Projects/Generative-AI/Image-To-Text-Generation-with-AI) 🖼️➡️📝
-> * [Image-generation-using-stable-diffusion-and-gradio](Extra-Projects/Generative-AI/image-generation-using-stable-diffusion-and-gradio) ✍️➡️🖼️
-> * [My-First-AI-Agent-Chat-Bot](Extra-Projects/Generative-AI/n8n-automation-tool-projects/My-First-AI-Agent-Chat-Bot) 🤖
+> * [Image-To-Text-Generation-with-AI](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Generative-AI/Image-To-Text-Generation-with-AI) 🖼️➡️📝
+> * [Image-generation-using-stable-diffusion-and-gradio](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Generative-AI/image-generation-using-stable-diffusion-and-gradio) ✍️➡️🖼️
+> * [My-First-AI-Agent-Chat-Bot](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Generative-AI/n8n-automation-tool-projects/My-First-AI-Agent-Chat-Bot) 🤖
 
 ---
 
