@@ -20,9 +20,10 @@ These projects demonstrate a complete, professional workflow from data analysis 
 
 | Project | Description | Project Link |
 |---------|-------------|--------------|
-| ⚡ **Express Wash - Smart Laundry App** | A real-time, multi-interface laundry management system developed with AI assistance. | **(Separate Repo)**<br>[Online Version](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Online-System)<br>[Offline Version](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Offline-System) |
+| ⚡ **Express Wash - Smart Laundry App** | A real-time, multi-interface laundry management system developed with AI assistance. | <br>[Online](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Online-System)<br>[Offline](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Offline-System) |
 | 💳 **Credit Card Fraud Detection** | A robust machine learning model and a Streamlit app to predict fraudulent transactions. | [View Project](Showcase-Projects/Credit-Card-Fraud-Detection) |
 | 📉 **Customer Churn Prediction** | A predictive model to forecast customer attrition, complete with a deployable web application. | [View Project](Showcase-Projects/Customer-Churn-Prediction) |
+| 🛒 **Retail Sales Forecasting** | A machine learning + LSTM based app predicting weekly sales for stores and departments, with visual comparison of current vs future predictions. | [View Project](Showcase-Projects/Retail-Sales-Forecasting) |
 | 🍎 **Fruit Freshness Classification** | An advanced deep learning project using a Convolutional Neural Network (CNN) for computer vision. | [View Project](Showcase-Projects/Fruit-Freshness-Classification) |
 
 ---
