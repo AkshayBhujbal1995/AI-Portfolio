@@ -1,0 +1,23 @@
+# Core
+streamlit==1.25.0
+pandas==2.1.1
+numpy==1.26.5
+requests==2.31.0
+beautifulsoup4==4.12.2
+pydantic==2.11.1
+
+# LangChain and embeddings
+langchain==0.1.148
+langchain-community==0.1.16
+sentence-transformers==2.2.2
+transformers==4.35.0
+
+# Local LLM
+ollama==0.0.3
+
+# Optional (for better web scraping and HTML parsing)
+lxml==4.9.3
+html5lib==1.1
+
+# Utilities
+tqdm==4.66.1
