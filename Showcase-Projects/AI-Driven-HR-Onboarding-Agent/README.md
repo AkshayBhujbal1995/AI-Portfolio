@@ -41,16 +41,16 @@ A **Tools Dashboard** allows users to **view all available modules**, toggle the
 ## Screenshots
 
 ### 1️⃣ Tools Dashboard
-![Tools Dashboard](sc/4_Tools.png)
+![Tools Dashboard](sc/4_Tools.PNG)
 
 ### 2️⃣ Add Employee
 ![Add Employee](sc/1_Add.png)
 ![Add Employee](sc/2_Added.PNG)
 ### 3️⃣ Send Email
 ![Send Email](sc/1_Email.PNG)
-
+![Send Received](sc/3_Recived_email.PNG)
 ### 4️⃣ Email Received
-![Email Received](sc/3_Recived_email.png)
+![Email Received](sc/4_Recived_email.PNG)
 
 > ⚠️ Other tools are available in the **Claude Desktop Tools Dashboard**, but screenshots are not included here.  
 
