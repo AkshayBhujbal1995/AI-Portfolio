@@ -149,5 +149,3 @@ The agent includes the following **tools/modules**:
 ## License
 
 This project is licensed under the MIT License.
-
-```
